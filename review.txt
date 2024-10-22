@@ -1,0 +1,9 @@
+# Marios review
+Error handling and input validation works well and informs the user on what they should do next, but it could benefit from a loop to prevent crashing.#
+Uses dictionaries, which have an O(1) time complexity, which imporves effiency
+# Aidans review
+loops should exist to stop the code breaking, they dont
+confirmation on purchases would be nice
+it works
+# Nicks review 
+Good code, needs a loop at the start to stop it from breaking but other than that its good.
